@@ -6,6 +6,7 @@
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("模拟一条数据上传到github");
+        System.out.println("私有代码");
     }
 
 }
